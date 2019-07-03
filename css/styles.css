@@ -1,0 +1,126 @@
+.header {
+  background-color: #ebf2f7;
+  background-size: cover;
+  position: relative;
+  padding: 10px;
+}
+
+.header h1 {
+  color: #3074e6;
+  font-family: "Audiowide";
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.header p {
+  font-family: Arial;
+}
+
+.recent {
+  background-color: #d3e0e8;
+  background-size: cover;
+  position: relative;
+  padding: 10px;
+}
+
+.recent h2 {
+  color: #3074e6;
+    font-family: Arial;
+    font-weight: 600;
+}
+
+.recent h3 {
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.recent p {
+  font-family: Arial;
+}
+
+.recent .scoring {
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.recent ul {
+  font-family: Arial;
+  font-size: 16px;
+}
+
+.highlights h2 {
+  color: #3074e6;
+  font-family: Arial;
+}
+
+.highlights {
+  background-color: #ebf2f7;
+  background-size: cover;
+  position: relative;
+  padding: 10px;
+}
+
+.highlights h3 {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+.highlights p {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.highlights .week {
+  font-weight: 600;
+}
+
+.highlights .heamon {
+  color: #39296e;
+  font-weight: 600;
+}
+
+.highlights .trilo {
+  color: #b80707;
+  font-weight: 600;
+}
+
+.highlights .comp {
+  color: #b85a07;
+  font-weight: 600;
+}
+
+.highlights .power {
+  color: #0765b8;
+  font-weight: 600;
+}
+
+.aboutme {
+  background-color: #d3e0e8;
+  background-size: cover;
+  position: relative;
+  padding: 10px;
+}
+
+.aboutme h2 {
+  color: #3074e6;
+  font-family: Arial;
+  font-weight: 600;
+}
+
+.aboutme p {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+footer {
+  position: relative;
+  padding: 10px;
+  color: #3074e6;
+  font-family: Arial;
+  font-weight: 600;
+  text-align: left;
+}
